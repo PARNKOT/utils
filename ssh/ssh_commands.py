@@ -1,5 +1,5 @@
 
-from utils.shell_commands import shell_run_command
+from bash.shell_commands import shell_run_command
 from ssh.SSH import SSH
 
 
